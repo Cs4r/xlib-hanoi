@@ -1,5 +1,5 @@
 # xlib-hanoi
-_xlib-hanoi_ is a hanoi towers game I coded in 2011 order to learn Xlib library basics, all documentation and comments are written in Spanish because I also used it as a university homework.
+_xlib-hanoi_ is a hanoi towers game I coded in 2011 in order to learn Xlib library basics, all documentation and comments are written in Spanish because I also used it as a university homework.
 
 ## Prerequisites
 1. **C++** compiler
