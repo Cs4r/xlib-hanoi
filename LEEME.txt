@@ -1,0 +1,32 @@
+//----------------------------------------------------------------------------------------
+/* *************************************************************************************/
+/* *************** xlib-hanoi- Juego de las torres de Hanoi con Xlib *******************/
+/* ********************* Cesar Aguilera <cesarap at correo.ugr.es> *********************/
+/* *********************** Nuevas Tecnologias de la Programacion ***********************/
+/* *************************************************************************************/
+//----------------------------------------------------------------------------------------
+
+Para compilar cada uno de los modulos y crear el ejecutable de xlib-hanoi hay que ejecutar
+la orden "make" en el directorio raiz. De la misma manera, para generar  la documentacion 
+asociada a este programa hay que ejecutar la orden "make doc" (Necesario tener instalado
+doxygen).
+
+xlib-hanoi no acepta argumentos de entrada. Por lo tanto, una llamada al programa tiene
+la siguiente sintaxis:
+       
+       % xlib-hanoi
+
+
+
+      
+
+
+
+
+
+
+
+
+
+
+

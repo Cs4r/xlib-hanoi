@@ -1,0 +1,9 @@
+Este programa es software libre, usted puede redistribuirlo y/o
+modificarlo bajo los terminos de la GNU General Public License
+publicada por la Free Software Foundation, bien de la version 3
+de la Licencia o cualquier version posterior.
+ 
+Este programa se distribuye con la esperanza de que sea util,
+pero SIN NINGUNA GARANTIA, incluso sin la garantía implicita de
+COMERCIABILIDAD o IDONEIDAD PARA UN PROPOSITO PARTICULAR. Ver la
+GNU General Public License para más detalles.
