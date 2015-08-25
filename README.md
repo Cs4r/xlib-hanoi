@@ -18,3 +18,7 @@ make
 cd path/to/xlib-hanoi/bin
 ./xlib-hanoi
 ```
+
+## Screenshot
+![Screenshot of xlib-hanoi]
+(https://github.com/Cs4r/xlib-hanoi/blob/master/image/screenshot_xlib-hanoi.png)
